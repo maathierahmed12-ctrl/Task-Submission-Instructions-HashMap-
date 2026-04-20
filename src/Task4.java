@@ -5,7 +5,7 @@ public class Task4 {
 
 }
 
-public int Task( String str ,int count  ) {
+public int Task4( String str ,int count  ) {
 
     Map<String, Integer> wordCount = new HashMap<>();
 
