@@ -1,11 +1,11 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Task6 {
+public class wordAppend {
 
 }
 
-public int Task6( String str , String time , String[] arr) {
+public int wordAppend( String str , String time , String[] arr) {
 
     String result = "";
 
