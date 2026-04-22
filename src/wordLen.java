@@ -1,11 +1,11 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Task2 {
+public class wordLen {
 
 }
 
-public int Task2(String W , String str , String word) {
+public int wordLen(String W , String str , String word) {
 
     Map<String, Integer> Word = new HashMap<>();
 

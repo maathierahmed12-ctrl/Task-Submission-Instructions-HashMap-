@@ -1,11 +1,11 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Task3 {
+public class pairs {
 
 }
 
-public int Task3(String f , String str , String l ) {
+public int pairs(String f , String str , String l ) {
 
     Map<String, String> pairs = new HashMap<>();
 
