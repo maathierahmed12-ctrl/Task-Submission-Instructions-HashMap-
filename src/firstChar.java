@@ -1,11 +1,11 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Task5 {
+public class firstChar {
 
 }
 
-public int Task5( String str , String f , String [] arr ) {
+public int firstChar( String str , String f , String [] arr ) {
 
     Map<String, String> firstChar = new HashMap<>();
 
