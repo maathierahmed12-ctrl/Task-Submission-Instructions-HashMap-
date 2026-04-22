@@ -1,11 +1,11 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Task4 {
+public class wordCount {
 
 }
 
-public int Task4( String str ,int count  ) {
+public int wordCount( String str ,int count  ) {
 
     Map<String, Integer> wordCount = new HashMap<>();
 
